@@ -1,2 +1,2 @@
-github.com/smthjapanese/register v0.0.0-20250219171849-2b03f63cf66e h1:bM3i9ViS2d790im/yvZJBDZk0lE09d9HGfpT3ZGcXr0=
-github.com/smthjapanese/register v0.0.0-20250219171849-2b03f63cf66e/go.mod h1:jMJoKYdlJUuPzVWRtgAhtw1v/idpT3+GSLzfSysVjgE=
+golang.org/x/crypto v0.33.0 h1:IOBPskki6Lysi0lo9qQvbxiQ+FvsCC/YWOecCHAixus=
+golang.org/x/crypto v0.33.0/go.mod h1:bVdXmD7IV/4GdElGPozy6U7lWdRXA4qyRVGJV57uQ5M=
